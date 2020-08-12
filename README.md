@@ -1,7 +1,6 @@
 # spin-game
 A simple and fun game implemented with d3js.
 
-[Demo](https://codepen.io/thorn117/pen/MdLNdN)
+[Demo](https://paperwave.xyz/demo/spingame/)
 
-
-This game is part of the [fidgetcube game](http://fidgetcube.paperwave.xyz/). It only works on mobile portrait resolutions.
+> This game is part of the *[fidgetcube game](http://fidgetcube.paperwave.xyz/)*, which only works on mobile portrait resolutions.
