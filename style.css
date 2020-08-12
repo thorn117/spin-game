@@ -1,0 +1,32 @@
+body {
+    background: #002bff;
+}
+#gameBox {
+    display: block;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#orbit {
+    fill: none
+}
+
+#points {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900
+}
+
+path {
+    fill: rgba(255, 255, 255, .9)
+}
